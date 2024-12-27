@@ -7,6 +7,10 @@
   max-width: 80%;
 }
 
+.messageBox:hover {
+  transform: scale(1.05);
+}
+
 .messageText {
   width: 100%;
   letter-spacing: 0;
