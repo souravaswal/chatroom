@@ -9,7 +9,7 @@ import Input from '../Input/Input';
 
 import './Chat.css';
 
-const ENDPOINT = 'http://localhost:5001/';
+const ENDPOINT = 'https://chatroom-38hu.onrender.com/';
 
 let socket;
 
